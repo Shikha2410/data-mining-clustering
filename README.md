@@ -1,0 +1,2 @@
+# data-mining-clustering
+The goal of the project is to increase familiarity with the clustering packages, available in R to do data mining analysis on real-world problems. Several different clustering methods were used on the given datasets. The dataset was as provided. The original cluster column was used as initial label for comparison. kMeans, Hierarchical, DBScan and SNNClust were the clustering methods used on the smaller data set and kMeans was chosen for large data set.
